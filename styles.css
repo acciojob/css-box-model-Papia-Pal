@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+div{
+	width: 300px;
+	padding: 50px;
+	background-color: lightblue;
+	border: 15px solid blue;
+	margin: 20px;
+    
+	
+}
+p.dashed{
+	padding:20px 10px;
+	outline-style: dashed;
+}
+div.solid{
+	outline-style:solid ;
+}
